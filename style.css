@@ -1,0 +1,36 @@
+#container1{
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+}
+
+.container2{
+	background-color: lightgoldenrodyellow;
+	width: 250px;
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+	box-shadow: 8px 8px 18px lightpink;
+}
+
+body{
+	background-image: url(https://gifdb.com/images/high/pink-aesthetic-anime-claw-machine-kgms3610sgh0wjk4.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#submit{
+	border-radius: 10px;
+	background-color: lightpink;
+	color: lightgoldenrodyellow;
+	font-family: Consolas;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+label{
+	font-size: 15px;
+	font-family: Consolas;
+	color: lightpink;
+	font-weight: bold;
+}
